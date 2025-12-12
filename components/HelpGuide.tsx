@@ -68,7 +68,7 @@ const HelpGuide: React.FC<Props> = ({ onClose }) => {
                         <Zap className="w-4 h-4" /> 2. Connect Live Sync
                      </div>
                      <p className="text-xs text-slate-400">
-                        In this Web App, go to <strong>System Data</strong> -> <strong>Connect PC/Drive Folder</strong>. Select a shared folder inside your Google Drive (G:).
+                        In this Web App, go to <strong>System Data</strong> &rarr; <strong>Connect PC/Drive Folder</strong>
                      </p>
                   </div>
 
